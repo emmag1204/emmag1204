@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emma Alfaro</h1>
 <h3 align="center">Computer Science Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmag1204" alt="emmag1204" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [emma-alfaro.netlify.app](emma-alfaro.netlify.app)
@@ -22,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmag1204&show_icons=true&locale=en&layout=compact" alt="emmag1204" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmag1204&show_icons=true&locale=en" alt="emmag1204" /></p>
-
