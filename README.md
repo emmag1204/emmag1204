@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [http://emma-alfaro.netlify.app](http://emma-alfaro.netlify.app)
-
 - 📫 How to reach me **emma.alfarod@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
