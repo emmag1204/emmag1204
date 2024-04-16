@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emma Alfaro</h1>
 <h3 align="center">Computer Science Student</h3>
 
-- 🌱 I’m currently learning **Web Development and Networks**
-
 - 📫 How to reach me **emma.alfarod@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
