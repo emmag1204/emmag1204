@@ -2,6 +2,7 @@
 <h3 align="center">Computer Science Student</h3>
 
 - 📫 How to reach me **emma.alfarod@gmail.com**
+- My Portfolio emmagabriela.me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
